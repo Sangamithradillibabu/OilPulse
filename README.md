@@ -1,4 +1,4 @@
-Oil Price Anomaly Detection Project
+Oil Price Anomaly Detection Project[TIME SERIES ANALYSIS]
 Overview:
 
 This project analyzes Brent oil daily prices and automatically detects unusual price movements using three methods:
